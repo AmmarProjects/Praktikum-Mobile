@@ -1,0 +1,12 @@
+<!-- Source Code strings.xml -->
+
+<resources>
+    <string name="app_name">TUGAS_C_17650071_MUHAMMAD AMMARULLAH RIDHO</string>
+    <string name="hasil">Hasil</string>
+    <string name="panjang">Panjang</string>
+    <string name="hitung">Hitung</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+</resources>
+
+    <!-- Ending strings.xml -->
